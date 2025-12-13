@@ -120,6 +120,10 @@ This highlights the advantage of *Transformer-based global context modeling* for
 
 ---
 
+## Comparsion App of Both Eigen and DPT models on KITTI dataset
+
+* Streamlit App - [App](https://depthestimationdashboard-a9ajdpfzdsayjzntqvctik.streamlit.app/)
+
 ## Videos Created for Both Eigen and DPT models on KITTI dataset
 
 * Eigen Gray Scale Prediction Video - [Eigen Gray Video](https://drive.google.com/file/d/1pogLfUXnhRSA_AosAwwJ_JWf23I6eFOJ/view?usp=sharing)
