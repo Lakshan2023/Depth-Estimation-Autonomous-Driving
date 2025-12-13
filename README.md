@@ -60,6 +60,8 @@ State-of-the-art depth estimation for complex autonomous driving environments.
 
 ### KITTI Eigen Split
 
+![Eigen Split Dataset] (figures/KittiEigenSplit.png)
+
 * Outdoor road scenes with sparse LiDAR-based ground-truth depth
 * Training samples: ~23,000
 * Test samples: 697 (had only 625 scenes for testing)
@@ -67,6 +69,8 @@ State-of-the-art depth estimation for complex autonomous driving environments.
 * Link to the eigen split tested - https://www.kaggle.com/datasets/awsaf49/kitti-eigen-split-dataset
 
 ### Virtual KITTI Benchmark (Challenging Conditions)
+
+![Virtual Kitti Dataset] (figures/Virtual KITTI.png)
 
 To evaluate robustness under adverse conditions, *both Eigen Network and DPT-Hybrid* were additionally tested on the *Virtual KITTI benchmark*, which provides photorealistic synthetic scenes with controlled environmental variations.
 
