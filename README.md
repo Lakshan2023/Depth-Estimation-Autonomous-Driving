@@ -122,7 +122,7 @@ This highlights the advantage of *Transformer-based global context modeling* for
 
 * Eigen Inferno Prediction Video -[Eigen Inferno Video](https://drive.google.com/file/d/1HRUc92FfYY2zJtLOENAioKFBp5Ng2ytN/view?usp=sharing)
 
-* DPT (Depth Prediction Transformer) Video - [Depth Prediction Transformer Video] (https://drive.google.com/file/d/1argmqwi1_IS69Su_XoaJ0f5ibQAvZTZ4/view?usp=sharing)
+* DPT (Depth Prediction Transformer) Video - [Depth Prediction Transformer Video](https://drive.google.com/file/d/1argmqwi1_IS69Su_XoaJ0f5ibQAvZTZ4/view?usp=sharing)
 
 ## Group Members
 
