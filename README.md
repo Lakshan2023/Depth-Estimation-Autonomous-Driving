@@ -62,8 +62,9 @@ State-of-the-art depth estimation for complex autonomous driving environments.
 
 * Outdoor road scenes with sparse LiDAR-based ground-truth depth
 * Training samples: ~23,000
-* Test samples: 697
+* Test samples: 697 (had only 625 scenes for testing)
 * Sparse depth regions are masked during training and evaluation
+* Link to the eigen split tested - https://www.kaggle.com/datasets/awsaf49/kitti-eigen-split-dataset
 
 ### Virtual KITTI Benchmark (Challenging Conditions)
 
@@ -80,6 +81,7 @@ To evaluate robustness under adverse conditions, *both Eigen Network and DPT-Hyb
 
 This evaluation assesses each model’s ability to maintain depth estimation accuracy under visibility degradation and illumination changes commonly encountered in real-world autonomous driving.
 
+* Link to Virtual KITTI Benchmark Dataset - https://datasetninja.com/virtual-kitti
 ---
 
 ## Task Definition
@@ -113,6 +115,14 @@ While the Eigen Network demonstrates the effectiveness of early CNN-based depth 
 This highlights the advantage of *Transformer-based global context modeling* for reliable depth perception in autonomous driving.
 
 ---
+
+## Videos Created for Both Eigen and DPT models on KITTI dataset
+
+* Eigen Gray Scale Prediction Video - [Eigen Gray Video](https://drive.google.com/file/d/1pogLfUXnhRSA_AosAwwJ_JWf23I6eFOJ/view?usp=sharing)
+
+* Eigen Inferno Prediction Video -[Eigen Inferno Video](https://drive.google.com/file/d/1HRUc92FfYY2zJtLOENAioKFBp5Ng2ytN/view?usp=sharing)
+
+* DPT (Depth Prediction Transformer) Video - [Depth Prediction Transformer Video] (https://drive.google.com/file/d/1argmqwi1_IS69Su_XoaJ0f5ibQAvZTZ4/view?usp=sharing)
 
 ## Group Members
 
