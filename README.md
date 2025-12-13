@@ -60,7 +60,7 @@ State-of-the-art depth estimation for complex autonomous driving environments.
 
 ### KITTI Eigen Split
 
-![Eigen Split Dataset] (figures/KittiEigenSplit.png)
+![Eigen Split Dataset](figures/KittiEigenSplit.png)
 
 * Outdoor road scenes with sparse LiDAR-based ground-truth depth
 * Training samples: ~23,000
@@ -70,7 +70,7 @@ State-of-the-art depth estimation for complex autonomous driving environments.
 
 ### Virtual KITTI Benchmark (Challenging Conditions)
 
-![Virtual Kitti Dataset] (figures/Virtual KITTI.png)
+![Virtual Kitti Dataset](figures/VirtualKITTI.png)
 
 To evaluate robustness under adverse conditions, *both Eigen Network and DPT-Hybrid* were additionally tested on the *Virtual KITTI benchmark*, which provides photorealistic synthetic scenes with controlled environmental variations.
 
@@ -107,7 +107,7 @@ The following standard depth-estimation metrics are used across both benchmarks:
 * *Sq Rel:* Squared Relative Error
 * *RMSE:* Root Mean Squared Error
 * *RMSE log:* Log-space RMSE
-* *SIlog:* Scale-invariant logarithmic error
+* *SIlog (Scale Invarianr Log RMSE):* Scale-invariant logarithmic error
 
 Higher delta values and lower error values indicate better performance.
 
