@@ -138,4 +138,14 @@ This highlights the advantage of *Transformer-based global context modeling* for
 * Janaka Sendanayake
 * Pramuditha Vithanaarachchi
 * Deelaka Dias
+
+## Contribution Table
+
+| Name | Contribution |
+|------|--------------|
+| **Lakshan Cooray** | <ul><li>Historical implementation of the Eigen Network (2014)</li><li>Benchmarking of Eigen Network on the KITTI dataset</li><li>Comparative dashboard for historical and current models</li><li>Documentation of unsupervised and self-supervised depth estimation approaches</li></ul> |
+| **Janaka Sendanayake** | <ul><li>Recent implementation – Dense Prediction Transformer (2021)</li><li>Benchmarking of DPT on the KITTI dataset</li><li>Documentation of Transformer-based depth estimation approaches</li></ul> |
+| **Pramuditha Vithanaarachchi** | <ul><li>Historical implementation benchmarking for VirtualKITTI dataset for different environmental evaluation</li><li>Documentation for supervised learning approaches</li></ul> |
+| **Deelaka Dias** | <ul><li>Recent implementation benchmarking for VirtualKITTI dataset for different environmental evaluation</li><li>Documentation for historical approaches</li></ul> |
+| **All** | <ul><li>Literature map</li><li>Comparison tables</li><li>Problem definition / business domain</li><li>Implementation writing</li></ul> |
 ---
